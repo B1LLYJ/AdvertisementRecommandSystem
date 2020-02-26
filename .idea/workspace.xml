@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cf350f4-afa1-4643-9c25-5a14035bdd3f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y0JTtkPmpS8zjRfeCQfZ5MPqTl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager" selected="Application.EurekaApplication">
+    <configuration name="EurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xitu.ad.EurekaApplication" />
+      <module name="ad-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xitu.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xitu.ad.ZuulGatewayApplication" />
+      <module name="ad-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xitu.ad.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EurekaApplication" />
+        <item itemvalue="Application.ZuulGatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf350f4-afa1-4643-9c25-5a14035bdd3f" name="Default Changelist" comment="" />
+      <created>1582073589328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582073589328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-863" y="-548" key="#com.intellij.ide.util.MemberChooser" timestamp="1582529896403">
+      <screen x="-2507" y="-973" width="2507" height="1417" />
+    </state>
+    <state x="-863" y="-426" key="#com.intellij.ide.util.MemberChooser/-2507.-851.2507.1417/0.23.1680.1027@-2507.-851.2507.1417" timestamp="1582327509432" />
+    <state x="-863" y="-548" key="#com.intellij.ide.util.MemberChooser/-2507.-973.2507.1417/0.23.1680.1027@-2507.-973.2507.1417" timestamp="1582529896403" />
+    <state width="1309" height="408" key="GridCell.Tab.0.bottom" timestamp="1582328113098">
+      <screen x="-2507" y="-851" width="2507" height="1417" />
+    </state>
+    <state width="1309" height="408" key="GridCell.Tab.0.bottom/-2507.-851.2507.1417/0.23.1680.1027@-2507.-851.2507.1417" timestamp="1582328113098" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582078817647" />
+    <state width="1309" height="408" key="GridCell.Tab.0.center" timestamp="1582328113097">
+      <screen x="-2507" y="-851" width="2507" height="1417" />
+    </state>
+    <state width="1309" height="408" key="GridCell.Tab.0.center/-2507.-851.2507.1417/0.23.1680.1027@-2507.-851.2507.1417" timestamp="1582328113097" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582078817646" />
+    <state width="1309" height="408" key="GridCell.Tab.0.left" timestamp="1582328113097">
+      <screen x="-2507" y="-851" width="2507" height="1417" />
+    </state>
+    <state width="1309" height="408" key="GridCell.Tab.0.left/-2507.-851.2507.1417/0.23.1680.1027@-2507.-851.2507.1417" timestamp="1582328113097" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582078817645" />
+    <state width="1309" height="408" key="GridCell.Tab.0.right" timestamp="1582328113098">
+      <screen x="-2507" y="-851" width="2507" height="1417" />
+    </state>
+    <state width="1309" height="408" key="GridCell.Tab.0.right/-2507.-851.2507.1417/0.23.1680.1027@-2507.-851.2507.1417" timestamp="1582328113098" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582078817646" />
+    <state x="-1138" y="-603" key="Maven.ArtifactSearchDialog" timestamp="1582529162622">
+      <screen x="-2507" y="-973" width="2507" height="1417" />
+    </state>
+    <state x="-1138" y="-481" key="Maven.ArtifactSearchDialog/-2507.-851.2507.1417/0.23.1680.1027@-2507.-851.2507.1417" timestamp="1582251497863" />
+    <state x="-1138" y="-603" key="Maven.ArtifactSearchDialog/-2507.-973.2507.1417/0.23.1680.1027@-2507.-973.2507.1417" timestamp="1582529162622" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1582244807027">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/-2560.0.2560.1440/0.0.1680.1050@0.0.1680.1050" timestamp="1582244807027" />
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1582076075824" />
+    <state x="-1451" y="-568" key="new project wizard" timestamp="1582683733821">
+      <screen x="-2507" y="-973" width="2507" height="1417" />
+    </state>
+    <state x="-2184" y="-551" key="new project wizard/-2507.-851.2507.1417/0.23.1680.1027@-2507.-851.2507.1417" timestamp="1582252608654" />
+    <state x="-1451" y="-568" key="new project wizard/-2507.-973.2507.1417/0.23.1680.1027@-2507.-973.2507.1417" timestamp="1582683733821" />
+    <state x="-2183" y="323" key="new project wizard/-2507.23.2507.1417/0.23.1680.1027@-2507.23.2507.1417" timestamp="1582248858362" />
+    <state x="217" y="222" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1582075065201" />
+  </component>
+</project>
